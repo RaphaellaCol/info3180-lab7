@@ -1,0 +1,20 @@
+# ----------------------
+# Flask
+# ----------------------
+flask
+Flask-SQLAlchemy
+psycopg2
+BeautifulSoup
+flask-migrate
+Flask-WTF
+flask-login
+# ----------------------
+# Testing
+# ----------------------
+mock
+
+
+# ----------------------
+# Production Server
+# ----------------------
+gunicorn
